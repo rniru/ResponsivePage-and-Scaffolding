@@ -1,0 +1,32 @@
+body{
+    background: rgb(125, 94, 94);
+}
+@media (min-width: 576px) {
+    body{
+        background: rgb(164, 189, 216)
+    }
+}
+
+@media (min-width: 768px) {
+    body{
+        background: rgb(168, 173, 126);
+    }
+}
+
+@media (min-width: 992px) {
+    body{
+        background: rgb(85, 114, 85);
+    }
+}
+
+@media (min-width: 1200px) {
+    body{
+        background: rgb(67, 96, 159);
+    }
+}
+
+@media (min-width: 1400px) {
+    body{
+        background: rgb(137, 103, 161);
+    }
+}
